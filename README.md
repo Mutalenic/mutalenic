@@ -1,11 +1,10 @@
-<h1> Hello there!
- <br> I’m  Nicholas Mutale 
+<h1> Hello there!</h1>
+ <br><h2> I’m  Nicholas Mutale </h2>
 <ul>
   <li>👀 I’m a Front-End Developer going Full-Stack.</li>
   <li>🌱 I’m currently a Microverse student studing Web Development</li>
   <li> I love learning new things and always open to collaborate on any web development project.</li>
-  <li>How to reach me:Twitter: @nicomutale</li>
-</ul>
+ </ul>
 
  
 ## 🛠️ Languages and Tools

@@ -7,7 +7,16 @@
   <li>How to reach me:Twitter: @nicomutale</li>
 </ul>
 
-## 🛠️ My favorite languages and tools
+GitHub Stats
+
+<a href="https://github.com/Mutalenic/Mutalenic">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutalenic&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MutaleNicholas's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Mutalenic/Mutalenic">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mutalenic&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MutaleNicholas's GitHub Stats" />
+
+## 🛠️ Languages and Tools
 
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>

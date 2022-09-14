@@ -2,7 +2,7 @@
  <br><h2> I’m  Nicholas Mutale </h2>
 <ul>
   <li>👀 I’m a Full-Stack Web Developer.</li>
-  <li>🌱 I am polishing my development skills every day by working on side projects"</li>
+  <li>🌱 I am polishing my development skills every day by working on side projects.</li>
   <li> I love learning new things and always open to collaborate on any web development project.</li>
  </ul>
 

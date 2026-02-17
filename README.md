@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicholas Mutale 👋</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Engineer</strong> · Rails & React · Lusaka, Zambia<br/>
+  <strong>Senior Full-Stack Engineer</strong> · Rails & React · Livingstone, Zambia<br/>
   <em>Building reliable, testable, production-grade web systems</em>
 </p>
 

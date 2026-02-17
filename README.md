@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicholas Mutale 👋</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Engineer</strong> · Rails & React · Livingstone, Zambia<br/>
+  <strong>Senior Full-Stack Engineer</strong> · Rails & React · Lusaka, Zambia<br/>
   <em>Building reliable, testable, production-grade web systems</em>
 </p>
 
@@ -23,6 +23,7 @@ I'm a senior full-stack engineer with deep experience in **Ruby on Rails** and *
 
 I specialize in:
 - Designing scalable **REST APIs** and backend architectures
+- **Modern frontends** — React, Next.js, Tailwind CSS, responsive and accessible UI
 - **Legacy modernization** — Rails upgrades, dependency resolution, migration planning
 - **Test automation** — RSpec, Cypress, Postman/Newman, CI/CD integration
 - **DevOps & deployment** — Docker, Capistrano, CI/CD pipelines, Heroku, AWS S3
@@ -44,6 +45,7 @@ I specialize in:
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
